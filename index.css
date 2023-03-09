@@ -1,0 +1,24 @@
+#main{
+    font-size: xx-large;
+    color: white;
+    width: 40vw;
+    border: 2px solid red;
+    border-radius: 2rem;
+    display: flex;
+    background-color: rgb(88, 42, 42);
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    padding: 3rem 2rem
+}
+button{
+    padding: 0.5rem;
+    margin: 1rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    width: 5vw;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+}
